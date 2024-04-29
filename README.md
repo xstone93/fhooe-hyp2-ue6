@@ -39,3 +39,5 @@ Insgesamt sind drei Dateien abzugeben:
 3. Das **physische ER-Modell** als *.sql-Datei. Dieses kann ebenso mit der Export-Funktion von MySQL Workbench erledigt werden.
 
 Laden Sie die drei Dateien in Ihrem Repository in ein neues Verzeichnis __submission__ hoch.
+
+**Information**: In den kommenden Einheiten werden wir die gesamte __QuizQuest__-Datenbank verwenden für die Programmierung. Dazu wird Ihnen eine Referenzdatenbank zur Verfügung von mir zur Verfügung gestellt, damit alle Tabellen und Spalten einheitlich sind. 
